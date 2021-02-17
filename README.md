@@ -4,3 +4,5 @@
 
 - A blog explaining ML algorithms: https://monkeylearn.com/blog/machine-learning-algorithms/
 
+- Ebook: http://www.cs.unibo.it/~montesi/CBD/Articoli/SurveyOpinionMining.pdf
+
